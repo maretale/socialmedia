@@ -1,3 +1,6 @@
+This is a social media website I made with a group as a final project for my cloud computing class. I've uploaded it as a zip file (minus the news dataset because that was large. It takes many hours to run the newsloader anyway, but let me know if you'd like to see it).
+Below is the rest of the readme from the project.
+
 <h1>Group G02 - Final Project</h1>
 Nicolas Cloutier (nac1, SEAS), Crystal Lu (cryslu, SEAS), Alexander Maret (maret, SAS), Zheng Xing (xingz126, SEAS).
 
